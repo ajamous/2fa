@@ -9,6 +9,8 @@
 
   <input type="text" name="pincode" value="">
 
+  <input type="submit" name="submit" value="Verify">
+
 </form>
 
 
