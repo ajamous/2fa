@@ -15,7 +15,7 @@ curl -X POST \
 }
 
 
-*/ End Send Verification Code
+*/ 
  ?>
 
 
